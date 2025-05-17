@@ -1,6 +1,3 @@
-
-Phase 5: Project Demonstration & Documentation
-
 Title:
 
 Healthcare Diagnosis and Treatment System
